@@ -86,7 +86,6 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [cyclic](https://app.cyclic.sh/#/)
 - [InfinityFree](https://www.infinityfree.net/)
 - [Deta](https://deta.sh)
-- [Railway](https://railway.app)
 - [Supabase](https://supabase.com)
 
 ## Websites to learn
@@ -482,6 +481,7 @@ More information about the pack can be found here [Github Student Developer Pack
 | [Scannable QR Code Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Scannable%20QR%20CODE%20Generator) | [Table Tennis Scorekeeper](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Table%20Tennis%20scorekeeper) | [Task Management App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/task-management-app) | [Temperature Convertor](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/tempreture-converter) | 
 [Tic Tac Toe](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/TicTacToe%20Game) | [To Do List](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/to-do-list) | [Typing Progress Bar](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Typing%20Progress%20Bar) | [Weather App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WeatherApp) | 
 | [Wix Template](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WixTemplate) | [URL Shortner](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/url-shortner) | | |
+| [College_canteen](https://github.com/deBmalooo/AOT_Canteen) | [URL Shortner](https://github.com/deBmalooo/AOT_Canteen) | | |
 
 Please note that the links provided are the GitHub repository URLs for each project.
 
